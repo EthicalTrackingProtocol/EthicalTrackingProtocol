@@ -1,5 +1,8 @@
 # Open Tracking Protocol
 
+![Open Tracking Protocol](/opentrackingprotocol-logo.png "Open Tracking Protocol")
+
+
 The Open Tracking Protocol is the open and privacy-first standard for tracking visitor and user interaction on the internet.
 
 Our mission is to contribute technology to an open internet which respects the privacy of its users by design.
