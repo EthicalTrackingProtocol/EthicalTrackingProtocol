@@ -23,6 +23,9 @@ The Ethical Tracking Protocol aims to collect various technologies for traffic m
 
 The Ethical Tracking Protocol is in early beta. We are planning to release a full monitoring framework until the end of 2022.
 
+### Published items
+- [Tracking parameter classification](https://github.com/EthicalTrackingProtocol/EthicalTrackingProtocol/blob/main/tracking-parameter-classification.md)
+
 ## Sponsors
 The Ethical Tracking Protocol is supported by [Qreuz](https://qreuz.com).
 
